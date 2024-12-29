@@ -47,8 +47,3 @@ This repository contains solutions to various Python and PySpark exercises. Belo
 1. Store two lists of names in RDDs.
 2. Compare the two RDDs to find matching elements.
 3. Print the matching elements of the lists.
-
-## Prerequisites
-- Python 3.x
-- PySpark
-- Random library for generating random numbers
